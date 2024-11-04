@@ -1,4 +1,3 @@
-*.tmp
-#nimet
+*.temp
 __pycache__
 .pytest_cache
